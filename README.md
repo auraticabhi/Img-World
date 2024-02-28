@@ -1,1 +1,1 @@
-A Full-fledge Image Sharing Platform built using React and FireBase.
+A Social Photo Manager Portal built using React and Firebase.
